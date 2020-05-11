@@ -1,3 +1,5 @@
 *.blend1
 *~
-bg.png
+bg*.png
+bg*.jpg
+
